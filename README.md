@@ -1,16 +1,16 @@
-~~~~
+```
 {
   "welcome": "Hi visitor!, I'm Christian. Welcome to my Github",
   "description": "I am a Full-Stack Developer, I have been working with system dev since 2013.
-I                 have a background working with different technologies, today my main focus is on JavaScript 
+I                 have a background working with different technologies, today my main focus is on JavaScript
                   ecosystem such as React, Node, and React Native."
 }
-~~~~
+```
 
-<img align="right" alt="GIF" src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeamernstackdeveloper-mobile.png" width="350" height="280" />
+<img align="right" alt="GIF" src="./mean.png" width="350" height="280" />
 
 ### About me:
-  
+
   <ul>
     <li> :round_pushpin: I'm from Brazil.</li>
     <li> :computer: Javascript programmer.</li>
@@ -37,7 +37,6 @@ I                 have a background working with different technologies, today m
 ### Languages and tools:
 
 </br>
-
 
 ![MONGODB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![EXPRESS.JS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)&nbsp;
