@@ -18,7 +18,7 @@ I                 have a background working with different technologies, today m
     <li> :books: Improving my english.</li>
     <li> :wrench: I Use React and React Native Frameworks in front-end, and Nodejs in back-end.</li>
     <li> :mortar_board: Certified <b>Flutter</b> by Udemy</li>
-     <li> :mortar_board: Certified <b>Golang</b> by Udemy</li>
+    <li> :mortar_board: Certified <b>Golang</b> by Udemy</li>
     <li> :mortar_board: Certified <b>NodeJS(MySQL, MongoDB, Design Pattern MVC, Express, API)</b> by Udemy</li>
   </ul>
 
