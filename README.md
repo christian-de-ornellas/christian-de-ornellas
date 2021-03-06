@@ -1,9 +1,9 @@
 ~~~~
 {
-"welcome": "Hi visitor!, I'm Christian. Welcome to my Github"
-"description": "I am a Full-Stack Developer, I have been working with system dev since 2013.
-I have a background working with different technologies, today my main focus is on JavaScript 
-  ecosystem such as React, Node, and React Native. "
+  "welcome": "Hi visitor!, I'm Christian. Welcome to my Github",
+  "description": "I am a Full-Stack Developer, I have been working with system dev since 2013.
+I   have a background working with different technologies, today my main focus is on JavaScript 
+    ecosystem such as React, Node, and React Native. "
 }
 ~~~~
 <img align="right" alt="GIF" src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeamernstackdeveloper-mobile.png" width="350" height="280" />
