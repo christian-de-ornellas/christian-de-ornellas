@@ -4,7 +4,7 @@ I am a Full-Stack Developer, I have been working with system dev since 2013.
 I have a background working with different technologies, today my main focus is
 on JavaScript ecosystem such as React, Node, and React Native."
 
-<img align="right" alt="GIF" src="./mean.png" width="350" height="280" />
+<img align="right" alt="GIF" src="./mern.png" width="350" height="280" />
 
 ### About me:
 
