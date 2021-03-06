@@ -1,4 +1,4 @@
-# Hi visitor!, I'm Christian. Welcome to my Github,
+# Hi visitor!, I'm Christian. Welcome to my Github.
 
 I am a Full-Stack Developer, I have been working with system dev since 2013.
 I have a background working with different technologies, today my main focus is
