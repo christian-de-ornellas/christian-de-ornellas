@@ -2,7 +2,11 @@
 
 I am a Full-Stack Developer, I have been working with system dev since 2013.
 I have a background working with different technologies, today my main focus is
-on JavaScript ecosystem such as React, Node, and React Native."
+on JavaScript ecosystem such as React, Node, and React Native.
+
+### My CV Online:
+
+<a href="https://christian-de-ornellas.github.io" target="_blank">Download Now</a>
 
 <img align="right" alt="MERN" src="./mern-dev.png" width="350" />
 
