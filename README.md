@@ -7,7 +7,7 @@ I                 have a background working with different technologies, today m
 }
 ```
 
-<img align="right" alt="GIF" src="./meaan.png" width="350" height="280" />
+<img align="right" alt="GIF" src="./mean.png" width="350" height="280" />
 
 ### About me:
 
