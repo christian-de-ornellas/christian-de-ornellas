@@ -1,11 +1,8 @@
-```
-{
-  "welcome": "Hi visitor!, I'm Christian. Welcome to my Github",
-  "description": "I am a Full-Stack Developer, I have been working with system dev since 2013.
-I                 have a background working with different technologies, today my main focus is on JavaScript
-                  ecosystem such as React, Node, and React Native."
-}
-```
+# Hi visitor!, I'm Christian. Welcome to my Github,
+
+I am a Full-Stack Developer, I have been working with system dev since 2013.
+I have a background working with different technologies, today my main focus is
+on JavaScript ecosystem such as React, Node, and React Native."
 
 <img align="right" alt="GIF" src="./mean.png" width="350" height="280" />
 
@@ -49,5 +46,4 @@ I                 have a background working with different technologies, today m
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![REDUX](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-
 </br>
