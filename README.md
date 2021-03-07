@@ -12,16 +12,16 @@ on JavaScript ecosystem such as React, Node, and React Native.
 
 ### About me:
 
-    - I'm from Brazil.
-    - Javascript programmer.
-    - A Rock 'n' Roll fan.
-    - Improving my english.
-    - I working with React and React Native on front-end, - and Nodejs on back-end.
-    - Certified <b>Flutter</b> by Udemy
-    - Certified <b>Golang</b> by Udemy
-    - Certified <b>NodeJS(MySQL, MongoDB, Design - Pattern MVC, Express, API)</b> by Udemy
-
-<
+  <ul>
+    <li> :round_pushpin: I'm from Brazil.</li>
+    <li> :computer: Javascript programmer.</li>
+    <li> :guitar: A Rock 'n' Roll fan.</li>
+    <li> :books: Improving my english.</li>
+    <li> :wrench: I working with React and React Native on front-end, and Nodejs on back-end.</li>
+    <li> :mortar_board: Certified <b>Flutter</b> by Udemy</li>
+    <li> :mortar_board: Certified <b>Golang</b> by Udemy</li>
+    <li> :mortar_board: Certified <b>NodeJS(MySQL, MongoDB, Design Pattern MVC, Express, API)</b> by Udemy</li>
+  </ul>
 
 ### Find me here:
 
