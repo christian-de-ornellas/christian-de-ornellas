@@ -17,7 +17,7 @@ on JavaScript ecosystem such as React, Node, and React Native.
     <li> :computer: Javascript programmer.</li>
     <li> :guitar: A Rock 'n' Roll fan.</li>
     <li> :books: Improving my english.</li>
-    <li> :wrench: I Use React and React Native Frameworks in front-end, and Nodejs in back-end.</li>
+    <li> :wrench: I working with React and React Native on front-end, and Nodejs on back-end.</li>
     <li> :mortar_board: Certified <b>Flutter</b> by Udemy</li>
     <li> :mortar_board: Certified <b>Golang</b> by Udemy</li>
     <li> :mortar_board: Certified <b>NodeJS(MySQL, MongoDB, Design Pattern MVC, Express, API)</b> by Udemy</li>
@@ -37,7 +37,7 @@ on JavaScript ecosystem such as React, Node, and React Native.
 
 ### Languages and tools:
 
-</br>
+<br/>
 
 ![MONGODB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![EXPRESS.JS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)&nbsp;
@@ -50,4 +50,5 @@ on JavaScript ecosystem such as React, Node, and React Native.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![REDUX](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-</br>
+
+<br/>
