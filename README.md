@@ -6,7 +6,7 @@ on JavaScript ecosystem such as React, Node, and React Native.
 
 ### My CV Online:
 
-<a href="[https://christian-de-ornellas.github.io](https://christian.vercel.app)" target="_blank">Download Now</a>
+[Download Now](https://christian.vercel.app)
 
 <img align="right" alt="MERN" src="./mern-dev.png" width="350" />
 
