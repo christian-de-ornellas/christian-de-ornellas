@@ -6,8 +6,6 @@ Estou sempre explorando novas tecnologias e evoluindo minhas habilidades — inc
 
 ---
 
-### 📄 Meu currículo online:
-
 ➡️ [Meu Site](https://christian.vercel.app)
 
 <img align="right" alt="MERN Developer" src="./mern-dev.png" width="350" />
