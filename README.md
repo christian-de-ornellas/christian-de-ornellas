@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Christian — bem-vindo ao meu perfil no GitHub!
 
-Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com mais de uma década de experiência criando aplicações web e mobile. Trabalho com desenvolvimento de sistemas desde **2013** e, atualmente, meu foco está no ecossistema **JavaScript**, utilizando principalmente **React**, **Node.js** e **React Native**.
+Sou um **Senior Software Engenieer** apaixonado por tecnologia, com mais de uma década de experiência criando aplicações web e mobile. Trabalho com desenvolvimento de sistemas desde **2013** e, atualmente, meu foco está no ecossistema **JavaScript**, utilizando principalmente **React**, **Node.js** e **React Native**.
 
 Estou sempre explorando novas tecnologias e evoluindo minhas habilidades — inclusive no inglês, que estou aprimorando constantemente. 🚀
 
