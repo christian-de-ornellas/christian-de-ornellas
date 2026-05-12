@@ -1,58 +1,103 @@
-# 👋 Olá, eu sou o Christian — bem-vindo ao meu perfil no GitHub!
+# 👋 Hi, I'm Christian Possidonio
 
-Sou um **Senior Software Engenieer** apaixonado por tecnologia, com mais de uma década de experiência criando aplicações web e mobile. Trabalho com desenvolvimento de sistemas desde **2013** e, atualmente, meu foco está no ecossistema **JavaScript**, utilizando principalmente **React**, **Node.js** e **React Native**.
+Tech Lead & Senior Software Engineer specialized in building scalable, high-performance digital products for web and mobile platforms.
 
-Estou sempre explorando novas tecnologias e evoluindo minhas habilidades — inclusive no inglês, que estou aprimorando constantemente. 🚀
+For over 10 years, I’ve been architecting and developing modern applications with strong focus on scalability, performance, SEO, accessibility, and engineering excellence.
 
----
-
-➡️ [Meu Site](https://christian.vercel.app)
-
-<img align="right" alt="MERN Developer" src="./mern-dev.png" width="350" />
+My expertise combines technical leadership, software architecture, frontend performance, backend engineering, and product scalability — helping teams deliver reliable and high-quality digital experiences.
 
 ---
 
-### 🙋‍♂️ Sobre mim:
+🌐 Website: https://possidonio.com
 
-- 📍 Brasileiro 🇧🇷  
-- 💻 Desenvolvedor JavaScript / TypeScript  
-- 🧠 Trabalho com React, React Native no front e Node.js no back  
-- 📚 Estudando inglês e sempre aprendendo algo novo  
-
-- 🛠️ Certificações:
-  - **Flutter** (Udemy)
-  - **Golang** (Udemy)
-  - **Node.js (MySQL, MongoDB, MVC, Express, API)** – Udemy
-  - **React.js** (Udemy)
-  - **Next.js** (Udemy)
-  - **Nest.js** (Udemy)
-
+<img align="right" alt="Software Engineer" src="./mern-dev.png" width="350" />
 
 ---
 
-### 🔗 Conecte-se comigo:
+## 🚀 Expertise
 
-<a href="https://www.linkedin.com/in/christian-possidonio/" alt="Linkedin">
+- Tech Leadership
+- Software Architecture
+- Scalable Web & Mobile Applications
+- Performance Engineering
+- Core Web Vitals Optimization
+- SEO & Technical SEO
+- WCAG Accessibility
+- Frontend & Backend Engineering
+- Developer Experience (DX)
+- Product Scalability & Engineering Quality
+
+---
+
+## 💻 Main Technologies
+
+### Frontend
+- React.js
+- Next.js
+- React Native
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+
+### Backend
+- Node.js
+- NestJS
+- Express.js
+- Fastify
+
+### Databases
+- MongoDB
+- Cassandra
+- PostgreSQL
+- MySQL
+- MariaDB
+
+---
+
+## 🧠 Engineering Mindset
+
+I believe software engineering goes beyond writing code.
+
+Great digital products are built through:
+- scalable architecture
+- performance-first mindset
+- accessibility
+- maintainable systems
+- engineering quality
+- user-centric experiences
+
+My mission is to create products that scale technically and generate real business impact.
+
+---
+
+## 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/christian-possidonio/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://possidonio.com" alt="Website">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
-
-<br/>
+## ⚙️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+> “Engineering is not just about writing code — it's about building scalable, reliable, and meaningful digital products.”
